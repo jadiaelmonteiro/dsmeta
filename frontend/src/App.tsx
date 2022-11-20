@@ -1,4 +1,3 @@
-import NotificationButton from "./components/notificationButton";
 import Header from "./components/header";
 import SalesCard from "./components/cardSales";
 
@@ -18,4 +17,4 @@ function App() {
   )
 }
 
-export default App
+export default App;

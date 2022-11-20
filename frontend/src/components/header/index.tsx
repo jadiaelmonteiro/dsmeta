@@ -18,4 +18,4 @@ function HeaderComp() {
     )
 }
 
-export default HeaderComp
+export default HeaderComp;
