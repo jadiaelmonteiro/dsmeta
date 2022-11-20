@@ -10,7 +10,7 @@ function HeaderComp() {
                     <h1>DSMeta</h1>
                     <p>
                         Desenvolvido por
-                        <a href="https://github.com/jadiaelmonteiro" target="_blak"> jadiael.monteiro@gmail.com</a>
+                        <a href="https://github.com/jadiaelmonteiro" target="_blak"> github.com/jadiaelmonteiro</a>
                     </p>
                 </div>
             </header>
